@@ -1,0 +1,2 @@
+user= shaansingh_db_user
+pass= 4HRmOyTUHtMi6T1p
